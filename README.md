@@ -54,7 +54,7 @@ Without `extern`, these were generating linker issues.
 
 ### Summary
 
-If you ran into the same build issues I did this should save you some time. This repo includes the all files needed to get GLava compiled and running on Debian 12 with nothing else changed.
+If you ran into the same build issues I did this should save you some time. This repo includes all files needed to get GLava compiled and running on Debian 12 with nothing else changed.
 
 Original project: [GLava on GitHub](https://github.com/jarcode-foss/glava)
 
