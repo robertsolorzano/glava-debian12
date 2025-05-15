@@ -1,6 +1,6 @@
 ## Compatibility Fixes for Debian 12 (GCC 12+)
 
-This fork includes a few changes to get GLava building and running cleanly on Debian 12 with modern GCC. The original project had issues due to outdated header usage and missing `extern` declarations that broke the build on stricter compilers.
+This fork has some tweaks to make GLava build and run smoothly on Debian 12 with newer GCC. The original code didn’t work right because of some old headers and missing `extern` declarations that cause problems on newer compilers.
 
 ### Files Changed
 
